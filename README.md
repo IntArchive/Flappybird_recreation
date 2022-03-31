@@ -1,5 +1,5 @@
 # FlappyBird_recreation
-Game is a fun in our life. Play some games to have fun.
+"Game is a fun in our life. Play some games to have fun"
 
 I have learned how to create simple games. Flappy Bird is in those simple game.
 
