@@ -1,7 +1,7 @@
 # FlappyBird_recreation
 "Game is a fun in our life. Play some games to have fun"
 
-I have learned how to create simple games. Flappy Bird is in those simple game.
+I have learned how to create simple games. Flappy Bird is one in those.
 
 Link to install file: https://drive.google.com/file/d/1GJbIDGqfbnaEdfs4pbBKmyEXNDXaDBB_/view?usp=sharing
 
